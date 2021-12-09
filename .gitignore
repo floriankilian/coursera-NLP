@@ -1,7 +1,7 @@
 # Python #
 ##########
 *.pyc
-*/.pynb_checkpoints
+/.ipynb_checkpoints
 /__pycache__
 
 # OS generated files #
